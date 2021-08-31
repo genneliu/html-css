@@ -1,0 +1,55 @@
+header {
+    background-color: lightgrey;
+    width: 100%;
+    height: 15%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+}
+
+#mini-box {
+    background-color: #2892E8;
+    height: 100px;
+    width: 100px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.white-box {
+    height: 250px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+    margin-top: 290px;
+}
+
+/* .boxes {
+    position: relative;
+    width: 100%;
+    height: 70%;
+    background-color: white;
+} */
+
+#blue-box {
+    background-color: #2892E8;
+    height: 200px;
+
+}
+
+#teal-box {
+    background-color: #00E7C1;
+    height: 200px;
+}
+
+#green-box {
+    background-color: #ABEB78;
+    height: 200px;
+}
+
+#yellow-box {
+    background-color: #FCE700;
+    height: 200px;
+}
